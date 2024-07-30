@@ -1,20 +1,3 @@
-// const Footer = () => {
-//   const date = new Date().getFullYear();
-
-//   return (
-//     <div className="border-t border-neutral-400 py-2">
-//       <div className="flex items-center justify-center gap-x-2">
-//         <p className="text-lg">©</p>
-//         <p>{date}</p>
-
-//         <p className="border-l-2 border-neutral-500 px-2">Fin. Chat</p>
-//       </div>
-//     </div>
-//   );
-// };
-
-// export default Footer;
-
 import {
   FaFacebookF,
   FaTwitter,
